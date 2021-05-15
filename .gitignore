@@ -12,3 +12,10 @@ dist/
 *.tar.bz2
 resume-en.pdf
 resume-zh.pdf
+
+#########
+#  osx  #
+#########
+.DS_Store
+*.icloud
+
